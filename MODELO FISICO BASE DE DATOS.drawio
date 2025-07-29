@@ -465,7 +465,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GOvHmdUmSvBLtoNfEEm--87" value="UsuXOrd_Insumo_ID (Int)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="GOvHmdUmSvBLtoNfEEm--85">
+        <mxCell id="GOvHmdUmSvBLtoNfEEm--87" value="&lt;span style=&quot;text-decoration-line: underline; font-weight: 700;&quot;&gt;Asig_OrdTra&lt;/span&gt;__Insumo_ID (Int)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="GOvHmdUmSvBLtoNfEEm--85">
           <mxGeometry x="30" width="230" height="30" as="geometry">
             <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
