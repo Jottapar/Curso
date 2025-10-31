@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="Página-1" id="4WebqL-21ueBAIJD6kmx">
-    <mxGraphModel dx="1418" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +227,7 @@
         <mxCell id="dKScbPVOt1iQ9Wq0GAjn-59" value="Crear Usuario" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=light-dark(#FFFFFF,#00994D);" parent="1" vertex="1">
           <mxGeometry x="1160" y="940" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-60" value="Editar Usuario" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-60" value="Editar Usuario" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=light-dark(#FFFFFF,#00994D);" parent="1" vertex="1">
           <mxGeometry x="1160" y="1025" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dKScbPVOt1iQ9Wq0GAjn-61" value="Eliminar Usuario" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
