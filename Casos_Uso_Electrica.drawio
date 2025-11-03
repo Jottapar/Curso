@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Página-1" id="4WebqL-21ueBAIJD6kmx">
-    <mxGraphModel dx="2591" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,13 +162,13 @@
         <mxCell id="dKScbPVOt1iQ9Wq0GAjn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#FFCE9F);" parent="1" source="dKScbPVOt1iQ9Wq0GAjn-26" target="dKScbPVOt1iQ9Wq0GAjn-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-26" value="Selección de Equipo" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-26" value="Selección de Equipo" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1160" y="310" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-27" value="Asignar Personal" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-27" value="Asignar Personal" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1330" y="260" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-28" value="Asignar materiales e instrumentos" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-28" value="Asignar materiales e instrumentos" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1325" y="360" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dKScbPVOt1iQ9Wq0GAjn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.024;entryY=0.348;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=light-dark(#000000,#FFCE9F);" parent="1" source="dKScbPVOt1iQ9Wq0GAjn-26" target="dKScbPVOt1iQ9Wq0GAjn-27" edge="1">
@@ -243,10 +243,10 @@
         <mxCell id="A74CXYDNCK7jK7z0l6ZR-1" value="Crear Rol" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=light-dark(#D5E8D4,#00994D);" parent="1" vertex="1">
           <mxGeometry x="1120" y="880" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UbgN2jyaA_rF2ropH_PG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbgN2jyaA_rF2ropH_PG-1" target="dKScbPVOt1iQ9Wq0GAjn-28">
+        <mxCell id="UbgN2jyaA_rF2ropH_PG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UbgN2jyaA_rF2ropH_PG-1" target="dKScbPVOt1iQ9Wq0GAjn-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UbgN2jyaA_rF2ropH_PG-1" value="crear materiales e instrumentos" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="UbgN2jyaA_rF2ropH_PG-1" value="crear materiales e instrumentos" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1530" y="360" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
