@@ -195,10 +195,10 @@
         <mxCell id="dKScbPVOt1iQ9Wq0GAjn-33" value="Visualizar Ordenes de Trabajo" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=light-dark(#FFFFFF,#00994D);" parent="1" vertex="1">
           <mxGeometry x="910" y="565" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-34" value="Filtrar" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-34" value="Filtrar" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=light-dark(#FFFFFF,#00994D);" parent="1" vertex="1">
           <mxGeometry x="910" y="680" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-35" value="V&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;er Status de Orden de Trabajo&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="dKScbPVOt1iQ9Wq0GAjn-35" value="V&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;er Status de Orden de Trabajo&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=light-dark(#FFFFFF,#00994D);" parent="1" vertex="1">
           <mxGeometry x="910" y="780" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dKScbPVOt1iQ9Wq0GAjn-37" value="Llenar Acta" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=light-dark(#FFFFFF,#00994D);" parent="1" vertex="1">
